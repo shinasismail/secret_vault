@@ -3,8 +3,6 @@
 A secret file storage vault in python with AES encryption support. 
 
 
-[![Support me!](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/maneeshpradeep)
-
 ## Features
 * Store and encrypt your files in an hidden directory somewhere in your PC.
 * The freedom to choose whether or not to **encrypt** your files before hiding them.
@@ -29,7 +27,7 @@ pip install secret-vault
 
 or by cloning this repo : 
 ```
-git clone https://github.com//secret_vault.git
+git clone https://github.com/shinasismail/secret_vault.git
 cd secret_vault
 
 # Run the setup.py file
